@@ -17,3 +17,4 @@ For more infomation, view the [first time git setup] (https://git-scm.com/book/e
 - [git config](./commands/Config.md)
 - [git init](./commands/Init.md)
 - [git add](./commands/Add.md)
+- [git commit](./commands/commit.md)
