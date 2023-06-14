@@ -21,3 +21,4 @@ For more infomation, view the [first time git setup] (https://git-scm.com/book/e
 -[git remote](./commands/commit.md)
 - [git push](./commands/Push.md)
 - [git pull](./commands/Pull.md)
+- [git status](./commands/Status.md)
