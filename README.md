@@ -19,3 +19,4 @@ For more infomation, view the [first time git setup] (https://git-scm.com/book/e
 - [git add](./commands/Add.md)
 - [git commit](./commands/commit.md)
 -[git remote](./commands/commit.md)
+- [git push](./commands/Push.md)
